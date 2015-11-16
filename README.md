@@ -4,5 +4,9 @@ This image was created as a [joke](https://twitter.com/TomasTomec/status/6659653
 
 Should I send a PR for Docker Library?;)
 
+```
+docker run --rm vpavlin/ahoj_svete --msg From Brno
+```
+
 ![Ahoj Světe](https://pbs.twimg.com/media/CT37lrNWoAAxSTB.jpg:large)
 ![Ahoj Světe 2](https://pbs.twimg.com/media/CT37KQlWsAUPAV-.jpg:large)
