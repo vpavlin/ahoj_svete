@@ -1,4 +1,4 @@
-FROM fedora
+FROM centos
 MAINTAINER Vaclav Pavlin <vpavlin@redhat.com>
 
 ADD run.sh /usr/local/bin/run.sh
